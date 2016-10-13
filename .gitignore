@@ -1,0 +1,8 @@
+*.class
+target
+.metadata
+.settings
+.nfs*
+.DS_Store
+*.sim
+*.dat
